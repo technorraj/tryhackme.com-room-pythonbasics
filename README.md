@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="py.JPG" alt="py.JPG" width="1000"/>
+</p>
 # 🐍 TryHackMe: Python Basics – Walkthrough
 
 This document contains a complete walkthrough of the **Python Basics** room on TryHackMe. It's designed for beginners and covers essential Python concepts like printing, arithmetic, variables, conditionals, loops, functions, and file handling.
